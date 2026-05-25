@@ -1,0 +1,16 @@
+PROCESOS PRINCIPALES DEL SISTEMA
+
+1. Ingreso de datos
+El usuario ingresa indicadores operativos y financieros.
+
+2. Validación
+El sistema verifica que los datos sean correctos.
+
+3. Procesamiento
+Los datos son organizados y enviados al modelo de IA.
+
+4. Análisis predictivo
+La inteligencia artificial analiza patrones de riesgo.
+
+5. Resultados
+El sistema muestra niveles de riesgo y posibles alertas.
