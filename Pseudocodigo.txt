@@ -1,0 +1,22 @@
+leer datos_usuario
+
+si datos_validos entonces
+
+    procesar_datos
+
+    riesgo = modelo_IA(datos)
+
+    si riesgo es alto entonces
+        generar_alerta
+    sino
+        mostrar_estado
+    fin si
+
+    mostrar_resultados
+
+sino
+    mostrar_error
+
+fin si
+
+FIN
