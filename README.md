@@ -14,13 +14,8 @@ Desarrollar una plataforma basada en inteligencia artificial que permita detecta
 
 ## Tecnologías utilizadas
 
-- Machine Learning
-- Python
+- Datos historicos que predicen quiebras financieras
+- C++
 - Análisis de datos
-- Dashboard web
-- Modelos predictivos
-
-
-
 ## Integrante
 - Samuel David Moreno Cruz
