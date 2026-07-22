@@ -1,0 +1,8 @@
+REQUERIMIENTOS FUNCIONALES
+
+1. El sistema debe permitir ingresar indicadores operativos.
+2. El sistema debe analizar datos mediante inteligencia artificial.
+3. El sistema debe calcular niveles de riesgo.
+4. El sistema debe generar alertas tempranas.
+5. El sistema debe mostrar resultados mediante un dashboard.
+6. El sistema debe almacenar información histórica para futuros análisis.
